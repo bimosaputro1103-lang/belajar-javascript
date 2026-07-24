@@ -3,5 +3,7 @@
     "workbench.colorTheme": "material Theme",
     "windows.zoomLevel": 1.5,
     "editor.fontSize": 12,
-
+    "editor.tabSize": 4,
+    "liveServer.settings.port": 5501,
+    "editor.wordWrap":"on"
 }
